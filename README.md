@@ -1,2 +1,2 @@
 # hello-world
-Kust another repository
+Just another repository
